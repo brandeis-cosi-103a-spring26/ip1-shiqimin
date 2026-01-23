@@ -1,1 +1,7 @@
-/workspaces/ip1-shiqimin/ip1/src/test/java/edu/brandeis/cosi103a/ip1/AppTest.java
+/workspaces/ip1-shiqimin/ip1/src/test/java/edu/brandeis/cosi103a/ip1/game/GameTest.java
+/workspaces/ip1-shiqimin/ip1/src/test/java/edu/brandeis/cosi103a/ip1/features/phases/CleanupPhaseTest.java
+/workspaces/ip1-shiqimin/ip1/src/test/java/edu/brandeis/cosi103a/ip1/GameIntegrationTest.java
+/workspaces/ip1-shiqimin/ip1/src/test/java/edu/brandeis/cosi103a/ip1/features/phases/BuyPhaseTest.java
+/workspaces/ip1-shiqimin/ip1/src/test/java/edu/brandeis/cosi103a/ip1/core/SupplyTest.java
+/workspaces/ip1-shiqimin/ip1/src/test/java/edu/brandeis/cosi103a/ip1/core/PlayerTest.java
+/workspaces/ip1-shiqimin/ip1/src/test/java/edu/brandeis/cosi103a/ip1/core/DeckTest.java
